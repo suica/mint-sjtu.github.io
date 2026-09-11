@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://mint-sjtu.github.io/sitemap.xml
+Sitemap: https://suica.github.io/mint-sjtu.github.io/sitemap.xml
